@@ -33,3 +33,7 @@ rm -rf ~/.local/share/nvim
       require'lspconfig'.pyright.setup{}
   ```
 - There are many plugins and You can adapt everything for Your needs
+
+![alt text](pick/oo.png)
+![alt text](pick/tt.png)
+![alt text](pick/tr.png)
