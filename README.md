@@ -21,8 +21,10 @@ git clone https://github.com/Kiljan/NeoVimStarter ~/.config/nvim && nvim
 ## Uninstall
 
 ### Linux / Macos (unix)
+```bash
 rm -rf ~/.config/nvim
 rm -rf ~/.local/share/nvim
+```
 
 ## Additional info
 
